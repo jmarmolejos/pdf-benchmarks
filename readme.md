@@ -1,4 +1,4 @@
-** Puppeteer **
+# Puppeteer
 
 - Downloads a ~104 MB Chrome image (~282MB after installed on Linux)
 - Spawns a Chrome process outside of the Node process
@@ -7,7 +7,7 @@
 - Duration to generate a .PDF from www.example.com: ~1500ms
 - PDF size: 30KB
 
-** pdfkit **
+# pdfkit
 
 - No extra download necessary
 - No extra processes are spawned outside the Node process
