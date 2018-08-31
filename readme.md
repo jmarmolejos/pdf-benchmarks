@@ -2,8 +2,8 @@
 
 - Downloads a ~104 MB Chrome image (**~282MB** after installed on Linux)
 - Spawns a Chrome process outside of the Node process
-- Node process itself only takes **~8MB of ram
-- Chrome process can take up to **~60MB of ram
+- Node process itself only takes **~8MB of ram**
+- Chrome process can take up to **~60MB of ram**
 - Duration to generate a .PDF from www.example.com: ~1500ms
 - PDF size: 30KB
 
